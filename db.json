@@ -1,0 +1,41 @@
+{
+    "teams": [
+      {
+        "name": "Team Alpha",
+        "product": "Product A",
+        "progress": 70,
+        "level": 3,
+        "status": "on track",
+        "tech": "GPT-3",
+        "location": {
+          "lat": 51.5074,
+          "lon": -0.1278
+        }
+      },
+      {
+        "name": "Team Beta",
+        "product": "Product B",
+        "progress": 50,
+        "level": 2,
+        "status": "close to deadline",
+        "tech": "Cohere",
+        "location": {
+          "lat": 37.7749,
+          "lon": -122.4194
+        }
+      },
+      {
+        "name": "Team Gamma",
+        "product": "Product C",
+        "progress": 30,
+        "level": 1,
+        "status": "behind",
+        "tech": "OpenAI",
+        "location": {
+          "lat": 52.5200,
+          "lon": 13.4050
+        }
+      }
+    ]
+  }
+  

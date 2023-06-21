@@ -1,59 +1,49 @@
 [
   {
-    "Name": "Team Alpha",
+    "Team": "Alpha",
     "Product": "Luminous Glow Foundation",
     "Progress": 70,
-    "Level": 3,
     "Status": "on track",
-    "Tech": "GPT-3",
     "Location": {
       "lat": 51.5074,
       "lon": -0.1278
     }
   },
   {
-    "Name": "Team Beta",
+    "Team": "Beta",
     "Product": "Enchanted Eyes Palette",
     "Progress": 50,
-    "Level": 2,
     "Status": "close to deadline",
-    "Tech": "Cohere",
     "Location": {
       "lat": 37.7749,
       "lon": -122.4194
     }
   },
   {
-    "Name": "Team Gamma",
+    "Team": "Gamma",
     "Product": "Radiant Cheek Stain",
     "Progress": 30,
-    "Level": 1,
     "Status": "behind",
-    "Tech": "OpenAI",
     "Location": {
       "lat": 52.52,
       "lon": 13.405
     }
   },
   {
-    "Name": "Team Delta",
+    "Team": "Delta",
     "Product": "Mystic Lip Elixir",
     "Progress": 90,
-    "Level": 4,
     "Status": "ahead of schedule",
-    "Tech": "NeurIPS",
     "Location": {
       "lat": 35.6895,
       "lon": 139.6917
     }
   },
   {
-    "Name": "Team Epsilon",
+    "Team": "Epsilon",
     "Product": "Opulent Highlighter",
     "Progress": 80,
-    "Level": 4,
     "Status": "on track",
-    "Tech": "GPT-4",
     "Location": {
       "lat": 40.7128,
       "lon": -74.0060

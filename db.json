@@ -1,7 +1,9 @@
-  {
+{
+    "teams": [
+      {
         "Name": "Team Alpha",
         "Product": "SkyNova",
-        "Progress": 0.7,
+        "Progress": 70,
         "Level": 3,
         "Status": "on track",
         "Tech": "GPT-3",
@@ -75,7 +77,7 @@
         "Product": "LunarTide",
         "Progress": 100,
         "Level": 2,
-        "Status": "close to deadline",
+        "Status": "on track",
         "Tech": "Microsoft AI",
         "location": {
           "lat": 47.6062,

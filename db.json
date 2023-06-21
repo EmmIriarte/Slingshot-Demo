@@ -75,21 +75,10 @@
       {
         "Name": "Team Eta",
         "Product": "LunarTide",
-        "Progress": 55,
+        "Progress": 100,
         "Level": 2,
         "Status": "close to deadline",
         "Tech": "Microsoft AI",
-        "location": {
-          "lat": 47.6062,
-          "lon": -122.3321
-        },
-             {
-        "Name": "Team Theta",
-        "Product": "Neoculus",
-        "Progress": 100,
-        "Level": 2,
-        "Status": "on track",
-        "Tech": "Midjourney",
         "location": {
           "lat": 47.6062,
           "lon": -122.3321

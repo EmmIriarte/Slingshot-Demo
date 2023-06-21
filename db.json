@@ -1,54 +1,40 @@
 {
-  "teams": [
-    {
-      "Team": "Alpha",
-      "Product": "Luminous Glow Foundation",
-      "Progress": 70,
-      "Status": "on track",
-      "Location": {
-        "lat": 51.5074,
-        "lon": -0.1278
+    "teams": [
+      {
+        "Name": "Team Alpha",
+        "Product": "Product A",
+        "Progress": 70,
+        "Level": 3,
+        "Status": "on track",
+        "Tech": "GPT-3",
+        "Location": {
+          "lat": 51.5074,
+          "lon": -0.1278
+        }
+      },
+      {
+        "Name": "Team Beta",
+        "Product": "Product B",
+        "Progress": 50,
+        "Level": 2,
+        "Status": "close to deadline",
+        "Tech": "Cohere",
+        "location": {
+          "lat": 37.7749,
+          "lon": -122.4194
+        }
+      },
+      {
+        "Name": "Team Gamma",
+        "Product": "Product C",
+        "Progress": 30,
+        "Level": 1,
+        "Status": "behind",
+        "Tech": "OpenAI",
+        "location": {
+          "lat": 52.5200,
+          "lon": 13.4050
+        }
       }
-    },
-    {
-      "Team": "Beta",
-      "Product": "Enchanted Eyes Palette",
-      "Progress": 50,
-      "Status": "close to deadline",
-      "Location": {
-        "lat": 37.7749,
-        "lon": -122.4194
-      }
-    },
-    {
-      "Team": "Gamma",
-      "Product": "Radiant Cheek Stain",
-      "Progress": 30,
-      "Status": "behind",
-      "Location": {
-        "lat": 52.52,
-        "lon": 13.405
-      }
-    },
-    {
-      "Team": "Delta",
-      "Product": "Mystic Lip Elixir",
-      "Progress": 90,
-      "Status": "ahead of schedule",
-      "Location": {
-        "lat": 35.6895,
-        "lon": 139.6917
-      }
-    },
-    {
-      "Team": "Epsilon",
-      "Product": "Opulent Highlighter",
-      "Progress": 80,
-      "Status": "on track",
-      "Location": {
-        "lat": 40.7128,
-        "lon": -74.0060
-      }
-    }
-  ]
-}
+    ]
+  }

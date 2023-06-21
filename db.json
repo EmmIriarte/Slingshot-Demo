@@ -18,6 +18,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Beta",
         "Product": "OceanBreeze",
@@ -33,6 +34,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Gamma",
         "Product": "TerraForge",
@@ -48,6 +50,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Delta",
         "Product": "AstroBeam",
@@ -63,6 +66,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Epsilon",
         "Product": "BioSculpt",
@@ -78,6 +82,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Zeta",
         "Product": "QuantumDive",
@@ -93,6 +98,7 @@
       },
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Eta",
         "Product": "LunarTide",

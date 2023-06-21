@@ -16,6 +16,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Beta",
         "Product": "OceanBreeze",
         "Progress": 8,
@@ -29,6 +31,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Gamma",
         "Product": "TerraForge",
         "Progress": 35,
@@ -42,6 +46,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Delta",
         "Product": "AstroBeam",
         "Progress": 49,
@@ -55,6 +61,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Epsilon",
         "Product": "BioSculpt",
         "Progress": 86,
@@ -68,6 +76,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Zeta",
         "Product": "QuantumDive",
         "Progress": 60,
@@ -81,6 +91,8 @@
         }
       },
       {
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Eta",
         "Product": "LunarTide",
         "Progress": 100,

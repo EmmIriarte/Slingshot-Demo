@@ -24,6 +24,18 @@
           "lon": -122.4194
         }
       },
+           {
+        "Name": "Team Alpha",
+        "Product": "Product A",
+        "Progress": 70,
+        "Level": 3,
+        "Status": "on track",
+        "Tech": "GPT-3",
+        "Location": {
+          "lat": 51.5074,
+          "lon": -0.1278
+        }
+      },
       {
         "Name": "Team Gamma",
         "Product": "Product C",

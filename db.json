@@ -2,6 +2,7 @@
     "teams": [
       {
         "Wave": 3,
+        "Fund": "560K USD",
         "Startups": 37,
         "Name": "Team Alpha",
         "Product": "SkyNova",

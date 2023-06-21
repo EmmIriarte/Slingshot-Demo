@@ -112,6 +112,7 @@
           "lon": -122.3321
         }
       }
+    ],
     "interactions": [
     {"time": "00:00", "messages": 0},
     {"time": "01:00", "messages": 0},

@@ -1,8 +1,8 @@
 {
     "teams": [
       {
-        "Wave": 3
-        "Startups": 37
+        "Wave": 3,
+        "Startups": 37,
         "Name": "Team Alpha",
         "Product": "SkyNova",
         "Progress": 73,

@@ -1,13 +1,15 @@
 {
     "teams": [
       {
+        "Wave": 3
+        "Startups": 37
         "Name": "Team Alpha",
         "Product": "SkyNova",
         "Progress": 73,
         "Level": 3,
         "Status": "on track",
         "Tech": "GPT-3",
-        "Users": 290, 
+        "Users": 190, 
         "Location": {
           "lat": 51.5074,
           "lon": -0.1278
